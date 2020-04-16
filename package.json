@@ -1,0 +1,19 @@
+{
+  "name": "authenticationwithpassport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kk77777/authentication-with-passportjs.git"
+  },
+  "author": "kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kk77777/authentication-with-passportjs/issues"
+  },
+  "homepage": "https://github.com/kk77777/authentication-with-passportjs#readme"
+}
