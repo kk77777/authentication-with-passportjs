@@ -13,6 +13,9 @@ app.set('view engine', 'ejs');
 //DB config
 const db = require('./config/keys').MongoURI;
 
+//Handling POST request
+app.use(express.urlencoded({ extended: false }));
+
 //Connect to database
 mongoose
   .connect(db, {
